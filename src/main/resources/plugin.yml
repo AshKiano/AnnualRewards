@@ -1,0 +1,9 @@
+name: AnnualRewards
+version: '${project.version}'
+main: com.ashkiano.annualrewards.AnnualRewards
+api-version: '1.16'
+authors: [ AshKiano ]
+commands:
+  annual:
+    description: Take your annual reward
+    usage: /<command>
